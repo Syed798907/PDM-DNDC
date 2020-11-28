@@ -1,0 +1,108 @@
+Input_Parameters:
+----------------------------------------
+Site_data:                  Lethbridge
+Simulated_Year:             1
+Latitude:                   86.184
+Daily_Record:                    1
+----------------------------------------
+Climate_data:
+Climate_Data_Type:          0
+NO3NH4_in_Rainfall            0.0000
+NO3_of_Atmosphere             0.0600
+BaseCO2_of_Atmosphere       350.0000
+Climate_file_count=         1
+    1   C:\Users\syeds\Desktop\AU-Documents\Phytoremediation-Paper\ObservedData-Lethbridge-LTM1973-2018\ClimateLeth2017.txt
+Climate_file_mode                0
+CO2_increase_rate           0.000000
+----------------------------------------
+Soil_data:
+   Soil_Texture              8
+   Landuse_Type              3
+   Density                   0.95000
+   Soil_pH                   7.50000
+   SOC_at_Surface            0.01300
+   Clay_fraction             0.41000
+   BypassFlow                0.00000
+   Litter_SOC                0.01000
+   Humads_SOC                0.03250
+   Humus_SOC                 0.95750
+   Soil_NO3(-)(mgN/kg)       0.09000
+   Soil_NH4(+)(mgN/kg)       0.42000
+   Moisture                  0.42000
+   Lateral_influx_index      0.00000
+Field_capacity              0.570000
+Wilting_point               0.270000
+Hydro_conductivity          0.008000
+Soil_porosity               0.476000
+SOC_profile_A               0.080000
+SOC_profile_B               1.400000
+DC_litter_factor            1.000000
+DC_humads_factor            1.000000
+DC_humus_factor             1.000000
+Humad_CN                    11.000000
+Humus_CN                    11.000000
+Soil_PassiveC               0.000000
+Soil_microbial_index        1.000000
+Highest_WT_depth            9.990000
+Depth_WRL_m                 9.990000
+Slope                       0.000000
+Salinity                    0.000000
+SCS_curve_use               0
+----------------------------------------
+Crop_data:
+Rotation_Number=            1
+  Rotation_ID=              1
+  Totalyear=                1
+  Years_Of_A_Cycle=         1
+    YearID_of_a_cycle=      1
+    Crop_total_Number=      1
+      Crop_ID=              1
+        Crop_Type=          8
+        Plant_time=         7 5
+        Harvest_time=       10 19
+        Year_of_harvest=    1
+        Ground_Residue=     0.000000
+        Yield=              2496.000000
+        Rate_reproductive=  0.000000
+        Rate_vegetative=    0.000000
+        Psn_efficiency=     0.000000
+        Psn_maximum=        0.000000
+        Initial_biomass=    12.500000
+        Cover_crop=         1
+        Perennial_crop=     0
+        Grain_fraction=  0.300000
+        Shoot_fraction=  0.470000
+        Root_fraction=  0.230000
+        Grain_CN=  45.000000
+        Shoot_CN=  75.000000
+        Root_CN=  85.000000
+        TDD=  1000.000000
+        Water_requirement=  250.000000
+        Max_root_depth=  1.000000
+        N_fixation=  1.000000
+        Vascularity=  0.000000
+    Tillage_number=         0
+    Fertil_number=          0
+      FertilizationOption=  -858993460
+    Manure_number=          0
+    Plastic_applications=            0
+    Ventilation=                     0
+    Flood_number=           0
+    Leak_type=              1
+    Water_control=          0
+    Leak_rate=              0.000000
+        Water_gather=   1.000000
+        WT_file=        None
+        Empirical_parameters= 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+    Irrigation_number=      0
+    Irrigation_type=        0
+    Irrigation_Index=       0.000000
+    Grazing_number=           0
+    Cut_number=           1
+      Cut_ID=           1
+        Cut_Month/Day=    10 16
+        Cut_amount= 0.800000
+        Cut_part= 6
+Crop_model_approach         0
+
+0
